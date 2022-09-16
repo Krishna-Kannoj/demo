@@ -1,2 +1,0 @@
-#Type your answer below this line (do not delete anything) (Max. Points=0.5)
-Yes, As there is no conflict in CFSM, the grammer(G1) is LR(0).
